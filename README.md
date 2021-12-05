@@ -54,3 +54,5 @@
 - Canal do Matheus Castiglione - https://www.youtube.com/c/MatheusCastiglioni
 - Canal do Jack Herrington - https://www.youtube.com/c/JackHerrington
 - FreeCodeCamp Jack Herrington - https://youtu.be/lKKsjpH09dU
+- https://martinfowler.com/articles/micro-frontends.html
+- https://medium.com/the-hamato-yogi-chronichels/lets-build-micro-frontends-with-nextjs-and-module-federation-b48c2c916680
